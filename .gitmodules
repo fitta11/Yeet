@@ -1,0 +1,3 @@
+[submodule "Yeet/vendor/spdlog"]
+	path = Yeet/vendor/spdlog
+	url = https://github.com/gabime/spdlog
